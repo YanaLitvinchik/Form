@@ -10,7 +10,7 @@ namespace WindowsFormsApplication1
     {
         private string _title;
         private string _genre;
-        private string _director;//
+        private string _director;
         private int _time;
         private double _rate;
         private double _revenue;
